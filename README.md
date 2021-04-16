@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-brito-silva/)]
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-brito-silva/)
 
 ### About me
 I'm a Full Stack developer mainly using Java language with the Spring Boot Framework!
