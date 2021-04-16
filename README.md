@@ -17,9 +17,6 @@ I'm a Full Stack developer mainly using Java language with the Spring Boot Frame
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=absc1203&layout=compact&theme=midnight-purple" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
-      &nbsp;
-      
-      <hr>
 
 ## 🏆 GitHub Trophies
 
